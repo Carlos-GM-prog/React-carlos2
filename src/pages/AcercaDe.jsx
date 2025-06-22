@@ -1,11 +1,11 @@
-import React from "react"
-import Header from "../components/estaticos/Header"
-import Footer from "../components/estaticos/Footer"
+import React from 'react'
+import Header from '../components/estaticos/Header'
+import Footer from '../components/estaticos/Footer'
 
-const AcercaDe = ({cart}) => {
+const AcercaDe = () => {
   return (
     <>
-      <Header cartItems={cart} />
+      <Header />
       <h1>Acerca De</h1>
       <Footer />
     </>

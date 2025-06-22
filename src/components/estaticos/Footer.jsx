@@ -3,7 +3,7 @@ import './styleEstatico.css'
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; 2025 - Mi Tienda OnLine</p>
+        <p>&copy; 2025 - Mi Tienda Online</p>
     </footer>
   )
 }
